@@ -35,7 +35,7 @@ Install Instructions:
 
 1. Unzip the contents inside the apache folder, for example under /var/www
 2. This will create a folder sql-labs under it. else you can use git command from within /var/www folder.
-/var/www folder and then use following command> git clone https://github.com/Audi-1/sqli-labs.git sqli-labs
+/var/www folder and then use following command> git clone https://github.com/trhacknon/sqli-labs.git sqli-labs
 3. Open the file "db-creds.inc" which is under sql-connections folder inside the sql-labs folder.
 4. Update your MYSQL database username and password.(default for Backtrack are used root:toor)
 5. From your browser access the sql-labs folder to load index.html
